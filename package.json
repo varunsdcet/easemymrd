@@ -23,7 +23,7 @@
     "email-validator": "^2.0.4",
     "firebase": "^7.14.5",
     "lottie-react-native": "^3.0.2",
-    "moment": "^2.25.1",
+    "moment": "^2.29.4",
     "random-string": "^0.2.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
